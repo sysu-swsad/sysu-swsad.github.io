@@ -51,21 +51,44 @@ Larman C . Applying UML and Patterns: An Introduction to Object-Oriented Analysi
 
 ### 五、课程内容
 
-| 周 | OOAD内容 | 作业与工程与实践 | 备注 |
+| 周 | OOAD内容 | 作业与工程实践 | 备注 |
 |:--:| ---- | ---- | ---- |
-| 1 | Introduction of OOAD | Nature of Software & Development | |
-| 2 | | | | 
+| 1 | OOAD 简介 | [软件的本质与软件工程科学](https://sysu-swsad.github.io/swad-guide/01-nature-software) | &emsp;|
+| 2 | 过程模型: <br> 软件开发过程  | [软件项目与知识团队管理](https://sysu-swsad.github.io/swad-guide/01-nature-software) | &emsp;|
+| 3 | 统一过程与敏捷实践  | [软件项目过程模型与规划](https://sysu-swsad.github.io/swad-guide/01-nature-software) | &emsp;|
+| 4 | 初始阶段：<br> 启动项目  | [Inception 实践指南](https://sysu-swsad.github.io/swad-guide/01-nature-software) | &emsp;|
+| 5 | 用例建模  | [组织第一次迭代](https://sysu-swsad.github.io/swad-guide/05-first-iteration) | &emsp;|
+| 6 | 用例建模  | [用例建模-绘制用例图](https://sysu-swsad.github.io/swad-guide/06-usecase%20modeling) | &emsp;|
+| 7 | 业务建模  | [用例建模-用例编写](https://sysu-swsad.github.io/swad-guide/07-usecase%20modeling) | &emsp;|
+| 8 | 领域建模  | [业务建模](https://sysu-swsad.github.io/swad-guide/08-usecase%20modeling) | &emsp;|
+| 9 | 领域建模  | [领域建模-概念与数据建模](https://sysu-swsad.github.io/swad-guide/09-domain%20modeling) | &emsp;|
+| 10 | 功能建模  | [领域建模-模型验证与面向资源的API设计](https://sysu-swsad.github.io/swad-guide/10-domain%20modeling) | &emsp;|
+| 11 | 软件架构设计  | [功能建模-设计RPC风格API](https://sysu-swsad.github.io/swad-guide/11-functional%20modeling) | &emsp;|
+| 12 | 软件架构设计  |  | &emsp;|
+| 13 | 微服务架构与实践  |  | &emsp;|
+| 14 | 详细设计-对象建模  |  | &emsp;|
+| 15 | 详细设计-对象建模  |  | &emsp;|
+| 16 | 详细设计-对象建模  |  | &emsp;|
+| 17 | 设计模式  |  | &emsp;|
+| 18 | 设计模式  |  | &emsp;|
+| 19 | 复习  |  | &emsp;|
+| 20 | 考试  |  | &emsp;|
 
+### 六、作业要求
 
-### 六、大作业要求
-
+1. [课程项目实践要求](https://sysu-swsad.github.io/swad-guide/00-project-intro)
+2. [课程项目实践模板](https://sysu-swsad.github.io/dashboard/)
+3. 作业提交要求
+    - 个人平时作业都是电子文档，请用博客或 GitPage URL 提交
+    - 平时作业收集，使用石墨文档    
+    - 团队作业，请在 Github 建项目，用 dashboard 仓库的 GitPage 提交
 
 ### 七、成绩
 
 |项目 | 分数 | 备注 |
 | --- |:---:| -- |
 | 期末考试 | 50 | &emsp; |
-| 平时作业 | 20 | 个人作业、课堂测试 |
+| 平时作业 | 20 | 个人作业、课堂测试（三次缺席不给平时成绩） |
 | 项目实践 | 30 | 项目文档、代码、效果展示 |
 | 课堂互动 | 10 | 课程相关方法与技术博客分享，优秀作业分享与课程展示等 |
 | 合计 | 110 | 总成绩大于100，按100分计算 |
@@ -75,12 +98,21 @@ Larman C . Applying UML and Patterns: An Introduction to Object-Oriented Analysi
 
 ### 八、温馨提示
 
-首先，理解实践性课程的特点。请看刘谦在北影“骗人的表演艺术”演讲的开场白 [“错误引导”](https://v.vzuu.com/video/1079868250250256384) 
+首先，理解实践性课程的特点。请先看刘谦在北影“骗人的表演艺术”演讲的开场白 [“错误引导”](https://v.vzuu.com/video/1079868250250256384) ，然后回答：
 
-<embed src='http://player.youku.com/player.php/sid/XMTgyODQzNTUy/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+* 在这十分钟内刘谦展示了魔术表演的原理、方法、技术或技巧、工具？
+* 了解了这些原理和方法，是否人人都能玩魔术？
 
-Q：软件工程类课程书籍既无公式，也无算法和程序，记忆课程内容非常枯燥，怎么办？
-A：软件工程内容来源于项目最佳实践的经验总结，包括原理、方法、技巧、工具等，因此你需要在实践中使用和检验它们。这与学开车没区别，需要实践而不是背诵。这些实践总结通常具有特定的 Context，可能别人的蜜糖在你手里就成为了毒药。 关于原理、方法与技巧在具体问题中的应用，
+Q：软件工程类课程书籍既无公式，也无算法和程序，课程内容非常理论？
+A：软件工程内容来源于软件项目最佳实践的经验总结，包括原理、方法、技巧、工具等，因此你需要在实践中使用和检验它们。课程主要内容是软件开发实践的原理和方法，的确是枯燥的。但在实践中，这些内容是鲜活、易于理解的。以 UI 设计为例，基本理论是眼球焦点管理，其方法包括设计模式等、同时涉及审美、心理等多方面内容，然后需要一些美术功力实施，加上效率工具，几个方面能力综合，在实践中你才能理解这些原理和方法的价值。因此，工程学科非常强调“做中学”！
+
+
+Q：为什么分析设计课程内容不够有趣？
+A：一个软件项目与一段个人表演差别太大。你可能注意到教材没有作业或练习，参考书有但也没趣。软件案例项目规模小了，你会认为用大炮打蚊子；规模大了，你无法知道正确答案；案例使用的技术旧了，你会认为课程跟不上时代；使用新技术，学习技术的压力太大而忽视了课程的主题。
+
+Q：课程可以自学吗？
+A：在一个学期时间内是不可以的，用个3-5年是可以的。对于软件开发者入门者，每年阅读一次这类教材体会差别是非常大。这是因为用自己的经验、教训验证教材是一件耗时的事情。大神自学也会挂科的，因为你有限的经验距离业界最佳实践距离实在太远。
+
 
 
 
