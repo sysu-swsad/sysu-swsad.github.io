@@ -46,8 +46,10 @@ Larman C . Applying UML and Patterns: An Introduction to Object-Oriented Analysi
 
 | 班级 |课程时间与地点|  教学助理与联系方式 |
 |:--------:| ----------- | ------------ |
-|  |  | |
-|  |  | |
+| 嵌软+通软 |  周一（3-4），周三前（3-4） C301/C204  | ... |
+| 数媒 |  周一（5-6），周三前（5-6） C301/C204  | ... |
+| 计应 | 周五（7-8），周三后（5-6）  C203/C204 | ... |
+| 电政 | 周五（3-4），周三后（3-4）  C203/C204 | ... |
 
 ### 五、课程内容
 
@@ -56,7 +58,7 @@ Larman C . Applying UML and Patterns: An Introduction to Object-Oriented Analysi
 | 1 | OOAD 简介 | [软件的本质与软件工程科学](https://sysu-swsad.github.io/swad-guide/01-nature-software) | &emsp;|
 | 2 | 过程模型: <br> 软件开发过程  | [软件项目与知识团队管理](https://sysu-swsad.github.io/swad-guide/01-nature-software) | &emsp;|
 | 3 | 统一过程与敏捷实践  | [软件项目过程模型与规划](https://sysu-swsad.github.io/swad-guide/01-nature-software) | &emsp;|
-| 4 | 初始阶段：<br> 启动项目  | [Inception 实践指南](https://sysu-swsad.github.io/swad-guide/01-nature-software) | &emsp;|
+| 4 | 初始阶段  | [Inception 实践指南](https://sysu-swsad.github.io/swad-guide/01-nature-software) | &emsp;|
 | 5 | 用例建模  | [组织第一次迭代](https://sysu-swsad.github.io/swad-guide/05-first-iteration) | &emsp;|
 | 6 | 用例建模  | [用例建模-绘制用例图](https://sysu-swsad.github.io/swad-guide/06-usecase%20modeling) | &emsp;|
 | 7 | 业务建模  | [用例建模-用例编写](https://sysu-swsad.github.io/swad-guide/07-usecase%20modeling) | &emsp;|
@@ -88,7 +90,7 @@ Larman C . Applying UML and Patterns: An Introduction to Object-Oriented Analysi
 |项目 | 分数 | 备注 |
 | --- |:---:| -- |
 | 期末考试 | 50 | &emsp; |
-| 平时作业 | 20 | 个人作业、课堂测试（三次缺席不给平时成绩） |
+| 平时作业 | 20 | 个人作业、课堂测试与考勤（三次缺席不给平时成绩、做后排减成绩） |
 | 项目实践 | 30 | 项目文档、代码、效果展示 |
 | 课堂互动 | 10 | 课程相关方法与技术博客分享，优秀作业分享与课程展示等 |
 | 合计 | 110 | 总成绩大于100，按100分计算 |
