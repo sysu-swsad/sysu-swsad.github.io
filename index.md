@@ -55,7 +55,7 @@ Larman C . Applying UML and Patterns: An Introduction to Object-Oriented Analysi
 
 | 周 | OOAD内容 | 作业与工程实践 | 备注 |
 |:--:| ---- | ---- | ---- |
-| 1 | OOAD 简介 | [软件的本质与软件工程科学](https://sysu-swsad.github.io/swad-guide/01-nature-software) | &emsp;|
+| 1 | [OOAD简介](slides/01-ooad-intro.pdf) | [软件的本质与软件工程科学](https://sysu-swsad.github.io/swad-guide/01-nature-software) | &emsp;|
 | 2 | 过程模型: <br> 软件开发过程  | [软件项目与知识团队管理](https://sysu-swsad.github.io/swad-guide/01-nature-software) | &emsp;|
 | 3 | 统一过程与敏捷实践  | [软件项目过程模型与规划](https://sysu-swsad.github.io/swad-guide/01-nature-software) | &emsp;|
 | 4 | 初始阶段  | [Inception 实践指南](https://sysu-swsad.github.io/swad-guide/01-nature-software) | &emsp;|
