@@ -56,9 +56,9 @@ Larman C . Applying UML and Patterns: An Introduction to Object-Oriented Analysi
 | 周 | OOAD内容 | 作业与工程实践 | 备注 |
 |:--:| ---- | ---- | ---- |
 | 1 | [OOAD简介](slides/01-ooad-intro.pdf) | [软件的本质与软件工程科学](https://sysu-swsad.github.io/swad-guide/01-nature-software) | &emsp;|
-| 2 | 过程模型: <br> 软件开发过程  | [软件项目与知识团队管理](https://sysu-swsad.github.io/swad-guide/01-nature-software) | &emsp;|
-| 3 | 统一过程与敏捷实践  | [软件项目过程模型与规划](https://sysu-swsad.github.io/swad-guide/01-nature-software) | &emsp;|
-| 4 | 初始阶段  | [Inception 实践指南](https://sysu-swsad.github.io/swad-guide/01-nature-software) | &emsp;|
+| 2 | 过程模型: <br> 软件开发过程  | [软件项目与知识团队管理](https://sysu-swsad.github.io/swad-guide/02-prject-team) | &emsp;|
+| 3 | 统一过程与敏捷实践  | [软件项目过程模型与规划](https://sysu-swsad.github.io/swad-guide/03-project-process) | &emsp;|
+| 4 | 初始阶段  | [Inception 实践指南](https://sysu-swsad.github.io/swad-guide/04-inception) | &emsp;|
 | 5 | 用例建模  | [组织第一次迭代](https://sysu-swsad.github.io/swad-guide/05-first-iteration) | &emsp;|
 | 6 | 用例建模  | [用例建模-绘制用例图](https://sysu-swsad.github.io/swad-guide/06-usecase%20modeling) | &emsp;|
 | 7 | 业务建模  | [用例建模-用例编写](https://sysu-swsad.github.io/swad-guide/07-usecase%20modeling) | &emsp;|
