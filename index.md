@@ -46,9 +46,9 @@ Larman C . Applying UML and Patterns: An Introduction to Object-Oriented Analysi
 
 | 班级 |课程时间与地点|  教学助理与联系方式 |
 |:--------:| ----------- | ------------ |
-| 嵌软+通软 |  周一（3-4），周三前（3-4） C301/C204  | ... |
-| 数媒 |  周一（5-6），周三前（5-6） C301/C204  | ... |
-| 计应 | 周五（7-8），周三后（5-6）  C203/C204 | ... |
+| 嵌软+通软 |  周一（3-4），周三前（3-4） C301/C204  | 陈师姐 545686770@qq.com，... |
+| 数媒 |  周一（5-6），周三前（5-6） C301/C204  | 何师兄 helang3@mail2.sysu.edu.cn，... |
+| 计应 | 周五（7-8），周三后（5-6）  C203/C204 | 黄师姐 hypjudy@qq.com，... |
 | 电政 | 周五（3-4），周三后（3-4）  C203/C204 | ... |
 
 ### 五、课程内容
@@ -56,7 +56,7 @@ Larman C . Applying UML and Patterns: An Introduction to Object-Oriented Analysi
 | 周 | OOAD内容 | 作业与工程实践 | 备注 |
 |:--:| ---- | ---- | ---- |
 | 1 | [OOAD简介](slides/01-ooad-intro.pdf) | [软件的本质与软件工程科学](https://sysu-swsad.github.io/swad-guide/01-nature-software) | &emsp;|
-| 2 | 过程模型: <br> 软件开发过程  | [软件项目与知识团队管理](https://sysu-swsad.github.io/swad-guide/02-prject-team) | &emsp;|
+| 2 | [过程模型](slides/02-process.pdf): <br> 软件开发过程  | [软件项目与知识团队管理](https://sysu-swsad.github.io/swad-guide/02-prject-team) | &emsp;|
 | 3 | 统一过程与敏捷实践  | [软件项目过程模型与规划](https://sysu-swsad.github.io/swad-guide/03-project-process) | &emsp;|
 | 4 | 初始阶段  | [Inception 实践指南](https://sysu-swsad.github.io/swad-guide/04-inception) | &emsp;|
 | 5 | 用例建模  | [组织第一次迭代](https://sysu-swsad.github.io/swad-guide/05-first-iteration) | &emsp;|
