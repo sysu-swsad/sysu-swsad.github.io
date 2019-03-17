@@ -21,6 +21,10 @@
 
 教师评价仅供学生参考，**不作为**评分依据！！！
 
+## 平时作业参考与博客收集
+
+* [博客在这里收集](https://shimo.im/sheets/L9YT0Vg0qJQXcVBH/)  可复制链接后用石墨文档 App 或小程序打开
+* [平时作业参考](https://shimo.im/sheets/MmxbgMfYzNAeZo37/)   可复制链接后用石墨文档 App 或小程序打开
 
 ## 通软+嵌软
 

@@ -58,7 +58,7 @@ Larman C . Applying UML and Patterns: An Introduction to Object-Oriented Analysi
 | 1 | [OOAD简介](slides/01-ooad-intro.pdf) | [软件的本质与软件工程科学](https://sysu-swsad.github.io/swad-guide/01-nature-software) | &emsp;|
 | 2 | [过程模型](slides/02-process.pdf): <br> 软件开发过程  | [软件项目与知识团队管理](https://sysu-swsad.github.io/swad-guide/02-prject-team) | &emsp;|
 | 3 | 统一过程与敏捷实践  | [软件项目过程模型与规划](https://sysu-swsad.github.io/swad-guide/03-project-process) | &emsp;|
-| 4 | 初始阶段  | [Inception 实践指南](https://sysu-swsad.github.io/swad-guide/04-inception) | &emsp;|
+| 4 | [初始阶段](slides/03-inception.pdf)  | [Inception 实践指南](https://sysu-swsad.github.io/swad-guide/04-inception) | &emsp;|
 | 5 | 用例建模  | [组织第一次迭代](https://sysu-swsad.github.io/swad-guide/05-first-iteration) | &emsp;|
 | 6 | 用例建模  | [用例建模-绘制用例图](https://sysu-swsad.github.io/swad-guide/06-usecase%20modeling) | &emsp;|
 | 7 | 业务建模  | [用例建模-用例编写](https://sysu-swsad.github.io/swad-guide/07-usecase%20modeling) | &emsp;|
@@ -109,7 +109,6 @@ Larman C . Applying UML and Patterns: An Introduction to Object-Oriented Analysi
 
 Q：软件工程类课程书籍既无公式，也无算法和程序，课程内容非常理论？
 A：软件工程内容来源于软件项目最佳实践的经验总结，包括原理、方法、技巧、工具等，因此你需要在实践中使用和检验它们。课程主要内容是软件开发实践的原理和方法，的确是枯燥的。但在实践中，这些内容是鲜活、易于理解的。以 UI 设计为例，基本理论是眼球焦点管理，其方法包括设计模式等、同时涉及审美、心理等多方面内容，然后需要一些美术功力实施，加上效率工具，几个方面能力综合，在实践中你才能理解这些原理和方法的价值。因此，工程学科非常强调“做中学”！
-
 
 Q：为什么分析设计课程内容不够有趣？
 A：一个软件项目与一段个人表演差别太大。你可能注意到教材没有作业或练习，参考书有但也没趣。软件案例项目规模小了，你会认为用大炮打蚊子；规模大了，你无法知道正确答案；案例使用的技术旧了，你会认为课程跟不上时代；使用新技术，学习技术的压力太大而忽视了课程的主题。
