@@ -85,7 +85,8 @@ Larman C . Applying UML and Patterns: An Introduction to Object-Oriented Analysi
     - 平时作业收集，使用石墨文档    
     - 团队作业，请在 Github 建项目，用 dashboard 仓库的 GitPage 提交
 
-**[作业提交页面](2019assignments)**
+* **[作业提交页面](2019assignments)**
+* [考勤情况查询](https://shimo.im/sheets/lOSJQ79Nv1caO0xL/)
 
 ### 七、成绩
 
