@@ -60,7 +60,7 @@ Larman C . Applying UML and Patterns: An Introduction to Object-Oriented Analysi
 | 3 | 统一过程与敏捷实践  | [软件项目过程模型与规划](https://sysu-swsad.github.io/swad-guide/03-project-process) | &emsp;|
 | 4 | [初始阶段](slides/03-inception.pdf)  | [Inception 实践指南](https://sysu-swsad.github.io/swad-guide/04-inception) | &emsp;|
 | 5 | [用例建模](slides/04-usecase.pdf)  | [组织第一次迭代](https://sysu-swsad.github.io/swad-guide/05-first-iteration) | &emsp;|
-| 6 | 用例建模  | [用例建模-绘制用例图](https://sysu-swsad.github.io/swad-guide/06-usecase%20modeling) | &emsp;|
+| 6 | 用例建模  | [用例建模-绘制用例图](https://sysu-swsad.github.io/swad-guide/06-usecase-modeling) | &emsp;|
 | 7 | 业务建模  | [用例建模-用例编写](https://sysu-swsad.github.io/swad-guide/07-usecase%20modeling) | &emsp;|
 | 8 | 领域建模  | [业务建模](https://sysu-swsad.github.io/swad-guide/08-usecase%20modeling) | &emsp;|
 | 9 | 领域建模  | [领域建模-概念与数据建模](https://sysu-swsad.github.io/swad-guide/09-domain%20modeling) | &emsp;|
