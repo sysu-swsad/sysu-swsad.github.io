@@ -62,8 +62,8 @@ Larman C . Applying UML and Patterns: An Introduction to Object-Oriented Analysi
 | 5 | [用例建模](slides/04-usecase.pdf)  | [组织第一次迭代](https://sysu-swsad.github.io/swad-guide/05-first-iteration) | &emsp;|
 | 6 | 用例建模  | [用例建模-绘制用例图](https://sysu-swsad.github.io/swad-guide/06-usecase-modeling) | &emsp;|
 | 7 | 业务建模  | [用例建模-业务建模](https://sysu-swsad.github.io/swad-guide/07-usecase-modeling) | &emsp;|
-| 8 | [领域建模](slides/05-domain.pdf)  | [领域建模-概念与数据建模](https://sysu-swsad.github.io/swad-guide/09-domain%20modeling) | &emsp;|
-| 9 | 领域建模  | [领域建模-模型验证与面向资源的API设计](https://sysu-swsad.github.io/swad-guide/10-domain%20modeling) | &emsp;|
+| 8 | [领域建模](slides/05-domain.pdf)  | [领域建模-概念与数据建模](https://sysu-swsad.github.io/swad-guide/08-domain-modeling) | &emsp;|
+| 9 | 领域建模  | [领域建模-模型验证与面向资源的API设计](https://sysu-swsad.github.io/swad-guide/09-domain-modeling) | &emsp;|
 | 10 | 功能建模  | [功能建模-设计RPC风格API](https://sysu-swsad.github.io/swad-guide/11-functional%20modeling) | &emsp;|
 | 11 | 软件架构设计  |  | &emsp;|
 | 12 | 软件架构设计  |  | &emsp;|
