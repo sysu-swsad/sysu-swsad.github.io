@@ -32,6 +32,8 @@
 * [第二周作业](https://shimo.im/sheets/M0LHRZNZGXkotEIT/)
 * [第三周作业](https://shimo.im/sheets/JxceGirRpvwePB53/)
 * [第六周作业](https://shimo.im/sheets/TOuI5Kd3q84Jw9xk/) 4/13日前提交
+* [第七周作业](https://shimo.im/sheets/e8mcSvmN4bE3lc6Y/)
+* [第九周作业](https://shimo.im/sheets/p7hqIUxj3dUsPnGn/) 10/6日前提交
 
 ## 数媒
 
@@ -39,6 +41,8 @@
 * [第二周作业](https://shimo.im/sheets/uCoHiTWnEQwWJQ2O/)
 * [第三周作业](https://shimo.im/sheets/Hj0RZtmbt3k7RcVW/)
 * [第六周作业](https://shimo.im/sheets/J1LQJtKc8ucfk96V/) 4/13日前提交
+* [第七周作业](https://shimo.im/sheets/IwqLFHFC2KIzAqXJ/)
+* [第九周作业](https://shimo.im/sheets/urNsGoRbRXI0zLcP/) 10/6日前提交
 
 ## 电政
 
