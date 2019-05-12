@@ -65,7 +65,7 @@ Larman C . Applying UML and Patterns: An Introduction to Object-Oriented Analysi
 | 8 | [领域建模](slides/05-domain.pdf)  | [领域建模-概念与数据建模](https://sysu-swsad.github.io/swad-guide/08-domain-modeling) | &emsp;|
 | 9 | 领域建模  | [领域建模-模型验证与面向资源的API设计](https://sysu-swsad.github.io/swad-guide/09-domain-modeling) | &emsp;|
 | 10 | [功能建模](slides/06-function.pdf)  | [功能建模-设计RPC风格API](https://sysu-swsad.github.io/swad-guide/10-functional-modeling) | &emsp;|
-| 11 | 软件架构设计  |  | &emsp;|
+| 11 | [软件架构设计](slides/07-architecture.pdf)  | 软件架构、架构模式、与应用程序框架  | &emsp;|
 | 12 | 软件架构设计  |  | &emsp;|
 | 13 | 微服务架构与实践  |  | &emsp;|
 | 14 | 详细设计-对象建模  |  | &emsp;|
