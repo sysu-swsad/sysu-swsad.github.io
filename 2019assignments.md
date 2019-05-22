@@ -49,9 +49,14 @@
 * [第一周作业](https://shimo.im/sheets/uBJjssYsbnAbcYaB/)
 * [第二周作业](https://shimo.im/sheets/oZw5sMbTAhU06mmO/)
 * [第三周作业](https://shimo.im/sheets/xEDYjza40VAeuGsI/) 4/19日前提交
+* [第六周作业](https://shimo.im/sheets/0nHx4NrMCnEpNwLP/)
+* [第七周作业](https://shimo.im/sheets/5SI2SrnVn6wFvuuP/) 5/26日前提交
 
 ## 计应
 
 * [第一周作业](https://shimo.im/sheets/AWYflDcbmJoolCzU/)
 * [第二周作业](https://shimo.im/sheets/Fd1h1RwsS30LKJCc/)
 * [第三周作业](https://shimo.im/sheets/b0bx1fX9eOYLDDSt/) 4/19日前提交
+* [第六周作业](https://shimo.im/sheets/Dls8pDYPbRkoi7jA/)
+* [第七周作业](https://shimo.im/sheets/umiBi5t4kzsYV2G2/) 5/26日前提交
+
