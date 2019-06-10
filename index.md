@@ -69,7 +69,7 @@ Larman C . Applying UML and Patterns: An Introduction to Object-Oriented Analysi
 | 12 | 软件架构设计  | [架构设计方法](https://sysu-swsad.github.io/swad-guide/11-architecture-design-methods) | &emsp;|
 | 13 | 微服务架构与实践  | [微服务架构定义](https://www.martinfowler.com/articles/microservices.html) | &emsp; |
 | 14 | 详细设计-对象建模[model](slides/08-object-model.pdf),[dynamic](slides/09-object-dynamic.pdf)  |  | &emsp;|
-| 15 | 详细设计-对象建模  |  | &emsp;|
+| 15 | 详细设计-对象建模[static](slides/09-object-static.pdf)  |  | &emsp;|
 | 16 | 详细设计-对象建模  |  | &emsp;|
 | 17 | 设计模式  |  | &emsp;|
 | 18 | 设计模式  |  | &emsp;|
